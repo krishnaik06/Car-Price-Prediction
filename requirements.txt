@@ -5,7 +5,7 @@ Flask==1.1.2
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib==0.15.1
+joblib==1.2.0
 jsonify==0.5
 MarkupSafe==1.1.1
 numpy==1.19.0
